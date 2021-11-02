@@ -1,0 +1,24 @@
+float scale[22];
+1 => scale[0];
+16 => scale[1]; 15/=>scale[1];
+10 => scale[2]; 9/=>scale[2];
+9 => scale[3]; 8/=>scale[3];
+8 => scale[4]; 7/=>scale[4];
+7 => scale[5]; 6/=>scale[5];
+6 => scale[6]; 5/=>scale[6];
+5 => scale[7]; 4/=>scale[7];
+9 => scale[8]; 7/=>scale[8];
+4 => scale[9]; 3/=>scale[9];
+7 => scale[10]; 5/=>scale[10];
+10 => scale[11]; 7/=>scale[11];
+3 => scale[12]; 2/=>scale[12];
+14 => scale[13]; 9/=>scale[13];
+8 => scale[14]; 5/=>scale[14];
+5 => scale[15]; 3/=>scale[15];
+12 => scale[16]; 7/=>scale[16];
+7 => scale[17]; 4/=>scale[17];
+16 => scale[18]; 9/=>scale[18];
+9 => scale[19]; 5/=>scale[19];
+15 => scale[20]; 8/=>scale[20];
+2 => scale[21];
+
